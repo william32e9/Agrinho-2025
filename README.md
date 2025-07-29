@@ -1,1 +1,1 @@
-um cenario onde há o campo e cidade onde podemos controlar a direção do sol.
+um cenario onde há o campo e cidade onde podemos controlar a direção do sol, controlndo o sol para toda direita a lua aparece na cidade, podendo acender ou apagar as luzes dos predios na cidade,tendo carros passando na cidade e passaros voando no campo.
